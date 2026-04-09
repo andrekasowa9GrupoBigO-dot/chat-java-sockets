@@ -1,0 +1,18 @@
+.root {
+    -fx-background-color: #18191a;
+    -fx-font-family: "Segoe UI";
+}
+
+.message-me {
+    -fx-background-color: #0084ff;
+    -fx-text-fill: white;
+    -fx-padding: 10 14;
+    -fx-background-radius: 18;
+}
+
+.message-other {
+    -fx-background-color: #3a3b3c;
+    -fx-text-fill: white;
+    -fx-padding: 10 14;
+    -fx-background-radius: 18;
+}
