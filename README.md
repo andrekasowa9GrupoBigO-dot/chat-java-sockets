@@ -71,7 +71,7 @@ A solução final apresenta-se funcional, escalável e com boa usabilidade, cons
 
 Como Executar o Projeto
 Clonar o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/andrekasowa9GrupoBigO-dot/chat-java-sockets
 Abrir o projeto no IntelliJ IDEA
 Executar primeiro o Servidor
 Executar um ou mais Clientes
